@@ -7,6 +7,7 @@ El repositorio correspondiente a esta lección está disponible en [https://gith
 
 ## Notebooks
 - [GeoPandas](https://github.com/tpb708-programacionsig-2020/leccion-12-geopandas/blob/master/geopandas.ipynb)
+- [GeoPandas - gráficos y mapas](https://github.com/tpb708-programacionsig-2020/leccion-12-geopandas/blob/main/geopandas-graficos-mapas.ipynb)
 
 ## Creación de un ambiente Conda y clonación del repositorio
 Ejecute estos comandos desde la línea de comandos de Anaconda, en el directorio en el que desea almacenar el repositorio clonado.
